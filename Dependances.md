@@ -20,4 +20,6 @@ export WEATHERSTACK_API_KEY="API_KEY"
 
 # ARM64 (IE MacOS)
 
-This feels a bit stupid, but since code from Linux and Windows have not worked on my machine it might actually be true.
+```text 
+ This feels a bit stupid, but since code from Linux and Windows have not worked on my machine it might actually be true.
+```
